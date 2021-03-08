@@ -6,10 +6,4 @@
   background-color: #f1f1f1;
 }
 
-/* Object fit allows for the logo to keep the aspect ratio */
-.app__header {
-  background-color: white;
-  padding: 20px;
-  border-bottom: 1px solid lightgray;
-  object-fit: contain;
-}
+
