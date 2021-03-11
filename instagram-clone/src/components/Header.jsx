@@ -1,7 +1,7 @@
 import React from "react";
 import "../css/Header.css";
 
-function Header() {
+function Header({signUp}) {
   return (
     <div className="header">
       <img
